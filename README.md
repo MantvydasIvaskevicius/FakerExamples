@@ -80,22 +80,4 @@ const generateBulkData = (count = 100) => {
 console.log(generateBulkData(100)); // Generates an array of 100 fake users
 ```
 
-## 📂 Project Structure
-```
-/
-├── examples/
-│   ├── users.js        # Fake user data examples
-│   ├── products.js     # Fake product data examples
-│   ├── addresses.js    # Fake addresses and locations
-├── README.md           # Documentation
-├── package.json        # Project metadata
-└── index.js            # Entry point
-```
-
-## 📜 License
-This project is licensed under the MIT License.
-
----
-
-Happy coding! 🚀
 
